@@ -18,6 +18,6 @@ module.exports = class Block {
             this.timestamp_
         ).toString();
     }
-    
+
 }
 
